@@ -1,0 +1,19 @@
+<xml>
+	<page>
+		<title> Computer Science </title>
+        <id> 1 </id>
+        <text> A computer science topic involves [[linear algebra]], which is hard. </text>
+	</page>
+	
+    <page>
+        <title> Calculus </title>
+        <id> 2 </id>
+        <text> The easiest topic in math is [[calculus]], and the [[Category:physical sciences]] use a lot. </text>
+    </page>
+
+    <page>
+        <title> Algebra </title>
+        <id> 3 </id>
+        <text> Algebra can be easy or hard, from grade 7 topics to [[Math|linear or abstract algebra]]. </text>
+    </page>
+</xml>
