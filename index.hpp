@@ -29,7 +29,7 @@ class Query;
 class Index {
     private:
         friend class Query; // Query class can access Index fields
-        const char* xml_filepath = "xml/BigWiki.xml"; // sys.argv[1]
+        const char* xml_filepath = "xml/MedWiki.xml"; // sys.argv[1]
         Processor processor; // text processor object
         vector<xml_node> all_pages; // vector of id, title, text of pages!
 
