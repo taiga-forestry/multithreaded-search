@@ -7,7 +7,7 @@
 #include <assert.h>
 #include <cmath>
 #include "pugixml/pugixml.hpp"
-#include "text_processor.hpp"
+#include "processor/text_processor.hpp"
 using std::unordered_map;
 using std::array;
 using std::shared_mutex;

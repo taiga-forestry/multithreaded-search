@@ -4,7 +4,7 @@
 #include <mutex>
 #include <assert.h>
 #include <cmath>
-#include "text_processor.hpp"
+#include "processor/text_processor.hpp"
 #include "index.hpp"
 using std::unordered_map;
 using std::string;
