@@ -1,6 +1,6 @@
 # Multi-Threaded Search
 
-A concurrent, thread-safe search engine that implements [Google's PageRank algorithm](https://en.wikipedia.org/wiki/PageRank#:~:text=PageRank%20(PR)%20is%20an%20algorithm,the%20importance%20of%20website%20pages.) and [term-relevance scoring](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) to return relevant results for a given query!
+A concurrent, thread-safe search engine that implements [Google's PageRank algorithm](https://en.wikipedia.org/wiki/PageRank#:~:text=PageRank%20(PR)%20is%20an%20algorithm,the%20importance%20of%20website%20pages.) and [tf-idf scoring](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) to return relevant results for a given query!
 
 This search engine consists of an Indexer and a Querier, where the indexer preprocesses a corpus of wiki pages to store information about which documents are relevant to which words. Then, the querier is used to respond to user search queries in a time-efficient manner.
 
